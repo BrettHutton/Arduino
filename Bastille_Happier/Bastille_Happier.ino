@@ -17,8 +17,8 @@ void loop()
   int tempo;
   int delayo;
   
-  tempo = 150;
-  delayo = 50;
+  tempo = 200;
+  delayo = 40;
   if (digitalRead(INPUT_5) == PRESSED) {
 
 

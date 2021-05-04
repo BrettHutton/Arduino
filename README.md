@@ -2,8 +2,12 @@
 Various Arduino Projects
 
 
-All sketches are made for the Lightup.io Tesla Kit.
 
 Reference:
 
 https://github.com/LightUpInc/lightup-arduino-plugin
+
+
+Piano Keys for converting to sketch are from:
+
+https://pianoletternotes.blogspot.com/
